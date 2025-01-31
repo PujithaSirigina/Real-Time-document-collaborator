@@ -1,4 +1,9 @@
 # Real-Time-document-collaborator
+ NAME: Pujitha Sirigina
+ COMPANY:COTECH IT SOLUTIONS 
+ DURATION: Jan 05,2025 TO Feb 5,2025 
+ DOMAIN:FRONTEND WEB DEVELOPMENT
+ Intern ID :CTO8IRK
 <img width="1402" alt="image" src="https://github.com/user-attachments/assets/e0c91bc8-c1c3-4e10-9fad-b20ec3face56" />
 Here’s a description you can use for your **Realtime Collaborative Code Editor** project:
 
